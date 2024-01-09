@@ -23,9 +23,9 @@
     <div id="xkMnBLG" data-type="backgrounds">
       
       <div id="OMwGKzx" data-type="bg-color" class="div-visible">
-        <div id="HOQzSTw" data-type="solid-color" class="div-visible" style="background: rgb(255, 8, 0);"></div>
+        <div id="HOQzSTw" data-type="solid-color" class="div-hidden" style="background: rgb(255, 8, 0);"></div>
         <div id="DtxhpWJ" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 255, 128), rgb(200, 0, 255));"></div>
-        <div id="jIQaEwy" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgba(255,0,0,0), rgba(255,0,0,1));"></div>
+        <div id="jIQaEwy" data-type="linear-color" class="div-visible" style="background: linear-gradient(0deg, rgb(252, 0, 0), rgb(255, 208, 0));"></div>
       </div> <!-- bg-color -->
 
       <div id="SLbSuJE" data-type="bg-image" class="div-hidden">
